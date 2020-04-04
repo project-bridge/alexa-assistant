@@ -33,5 +33,6 @@
   "bugs": {
     "url": "https://github.com/tartanguru/alexa-assistant/issues"
   },
-  "homepage": "https://github.com/tartanguru/alexa-assistant#readme"
-}
+  "engines": {
+    "node": "6.1.0"
+} 
